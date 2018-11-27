@@ -1,0 +1,36 @@
+{
+  "title": "Dac San 2 Mien",
+  "name": "dacsan2mien",
+  "version": "0.0.1",
+  "description": "An e-commerce website, version 2",
+  "keywords": [
+    "css",
+    "sass",
+    "html",
+    "responsive",
+    "theme",
+    "template"
+  ],
+  "homepage": "https://startbootstrap.com/template-overviews/4-col-portfolio",
+  "bugs": {
+    "url": "https://github.com/BlackrockDigital/startbootstrap-4-col-portfolio/issues",
+    "email": "feedback@startbootstrap.com"
+  },
+  "license": "MIT",
+  "author": "Start Bootstrap",
+  "contributors": [
+    "David Miller (http://davidmiller.io/)"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BlackrockDigital/startbootstrap-4-col-portfolio.git"
+  },
+  "dependencies": {
+    "bootstrap": "^4.0.0-beta.2",
+    "jquery": "^3.2.1"
+  },
+  "devDependencies": {
+    "browser-sync": "2.23.6",
+    "gulp": "^3.9.1"
+  }
+}
