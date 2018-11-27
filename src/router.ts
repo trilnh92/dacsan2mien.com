@@ -13,7 +13,7 @@ export default new Router({
     {
       path: '/',
       name: 'under-construction',
-      component: () => import(/* webpackChunkName: "about" */ '@/components/UnderConstruction.vue'),
+      component: () => import(/* webpackChunkName: "about" */ '@/views/UnderConstruction.vue'),
     },
     {
       path: '/about',
